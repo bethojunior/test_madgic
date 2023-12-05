@@ -1,6 +1,6 @@
 # Sobre
 
-O projeto deve ser feito em React sem NextJs.
+O projeto deve ser feito em React
 
 ## O Teste
 
@@ -28,6 +28,5 @@ Seria um diferencial se voce fizer:
 
 ### Terminei, e agora?
 
-1. Crie um repositoório e me adicione como contribuidor para eu analisar:
-2. Se conseguir subir a aplicação em algum servidor, melhor ainda. Caso não consiga, sem problemas.
-3. Descreva no readme sobre seu código, defenda suas esolhas de depencias entre outras ...
+1. Crie um repositório e me adicione como contribuidor para eu analisar:
+2. Me envie um email com o link do repositório : contato@madgic.com.br
