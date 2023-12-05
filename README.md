@@ -1,6 +1,6 @@
 # Sobre
 
-O projeto deve ser feito em React
+O projeto necessáriamente deve ser feito em React e tem um prazo de 5 dias
 
 ## O Teste
 
@@ -24,13 +24,10 @@ Seu código e qualidade de código, arquiretura do projeto e validação da apli
 Seria um diferencial se voce fizer:
 
 1. Utilizar o Material UI : <a target="_blank" href="https://mui.com/material-ui">Material UI</a>
-2. Trabalhar a versão responsiva para mobile. 
+2. Utilizar NextJs : <a href="https://nextjs.org">NextJs</a>
+3. Trabalhar a versão responsiva para mobile. 
 
 ### Terminei, e agora?
 
 1. Crie um repositório e me adicione como contribuidor para eu analisar:
 2. Me envie um email com o link do repositório : contato@madgic.com.br
-
-
-### Prazo
-5 dias ;)
