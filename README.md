@@ -30,3 +30,7 @@ Seria um diferencial se voce fizer:
 
 1. Crie um repositório e me adicione como contribuidor para eu analisar:
 2. Me envie um email com o link do repositório : contato@madgic.com.br
+
+
+### Prazo
+5 dias ;)
