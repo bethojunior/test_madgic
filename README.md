@@ -13,8 +13,8 @@ Seu código e qualidade de código, arquiretura do projeto e validação da apli
 ### Bonus
 Seria um diferencial se voce fizer:
 
-1- Utilizar o Material UI : <a>https://mui.com/material-ui/</a>
-2- Trabalhar a versão responsiva para mobile. 
+1. Utilizar o Material UI : <a>https://mui.com/material-ui/</a>
+2. Trabalhar a versão responsiva para mobile. 
 
 ### Terminei, e agora?
 
