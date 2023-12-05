@@ -6,7 +6,7 @@ O projeto deve ser feito em React sem NextJs.
 
 Você deverá fazer algumas telas e fazendo integração um api real para ler e alimentar os dados do sistema.
 
-As telas seram um clone de 3 paáinas sistema Astrea, segue o link <a target="_blank" href="https://app.astrea.net.br/#/login/">Astrea</a>
+As telas seram um clone de 3 páginas sistema Astrea, segue o link <a target="_blank" href="https://app.astrea.net.br/#/login/">Astrea</a>
 
 1. Tela de login;
 2. Tela Principal;
