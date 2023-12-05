@@ -1,21 +1,23 @@
-# React Test
+# Sobre
 
-This project is a React test designed to assess your skills and knowledge of React development.
+O projeto deve ser feito em React sem NextJs.
 
-## Getting Started
+## O teste
 
-To get started with the test, follow the instructions below.
+Você deverá fazer algumas telas e fazendo integração um api real para ler e alimentar os dados do sistema.
 
-### Prerequisites
+### O que iremos analisar
 
-Make sure you have Node.js and npm installed on your machine.
+Seu código e qualidade de código, arquiretura do projeto e validação da aplicação feita.
 
-- [Node.js](https://nodejs.org/)
-- [npm](https://www.npmjs.com/)
+### Bonus
+Seria um diferencial se voce fizer:
 
-### Installation
+1- Utilizar o Material UI : <a>https://mui.com/material-ui/</a>
+2- Trabalhar a versão responsiva para mobile. 
 
-1. Clone the repository:
+### Terminei, e agora?
 
-   ```bash
-   git clone https://github.com/your-username/react-test.git
+1. Crie um repositoório e me adicione como contribuidor para eu analisar:
+2. Se conseguir subir a aplicação em algum servidor, melhor ainda. Caso não consiga, sem problemas.
+3. Descreva no readme sobre seu código, defenda suas esolhas de depencias entre outras ...
